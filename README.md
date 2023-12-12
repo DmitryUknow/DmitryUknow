@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DmitryUknow
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning all about testing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (TBD)
 - 📫 How to reach me ...
 
 <!---
