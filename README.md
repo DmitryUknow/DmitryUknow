@@ -7,7 +7,7 @@
 Автоматизированное тестирование (Pupeeteer, Playwright, Pytest)
 Тестирование API (Postman, Swagger)
 Работа с системами баг-трекинга (Jira, YouTrack)
-Опыт написания автотестов на Python и JavaScript
+Автотесты на Python и JavaScript
 Владею Git, Charles, DevTools, SQL, ANdroid Studio, HTML, CSS
 
 ⚽ Хобби и увлечения:
