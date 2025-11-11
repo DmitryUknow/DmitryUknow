@@ -8,7 +8,7 @@
 Тестирование API (Postman, Swagger)
 Работа с системами баг-трекинга (Jira, YouTrack)
 Автотесты на Python и JavaScript
-Владею Git, Charles, DevTools, SQL, ANdroid Studio, HTML, CSS
+Владею Git, Charles, DevTools, SQL, Android Studio, HTML, CSS
 
 ⚽ Хобби и увлечения:
 Бег, ориентирование, велосипед, лыжи
