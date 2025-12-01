@@ -8,7 +8,7 @@
 Работа с системами баг-трекинга (Jira, YouTrack)
 Автотесты на Python и JavaScript
 SQL, HTML, CSS, JavaScript 
- Git, Charles, DevTools, Android Studio, Docker, CI/CD, Linux
+Git, Charles, DevTools, Android Studio, Docker, CI/CD, Linux
 
 ⚽ Хобби и увлечения:
 Бег, ориентирование, велосипед, лыжи
